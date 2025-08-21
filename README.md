@@ -1,18 +1,25 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+## 🚀 Funcionalidades
 
-## Folder Structure
+### ✅ Contador com Validação
+- Recebe dois números inteiros via terminal
+- Imprime uma sequência de números com base na diferença entre eles
+- Lança exceção customizada se o primeiro número for maior que o segundo
 
-The workspace contains two folders by default, where:
+### ✅ Processo Seletivo Simulado
+- **Case 1**: Compara salário base com salário pretendido e decide ação
+- **Case 2**: Seleciona até 5 candidatos com salário pretendido menor ou igual ao base
+- **Case 3**: Imprime lista de candidatos selecionados para contato
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## 🛠️ Tecnologias Utilizadas
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+- Java 8+
+- Visual Studio Code
+- Scanner para entrada de dados
+- Git e GitHub para versionamento
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 📥 Como Executar
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/seu-usuario/seu-repositorio.git
